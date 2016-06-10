@@ -6,8 +6,11 @@ Version: 1.0
 */
 
 @import
-"global/variables",
 "global/reset",
+"global/variables",
+"global/functions",
+"global/typography",
 "global/layout",
+
 "components/header",
 "components/footer"
